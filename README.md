@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kathrynhoule&show_icons=true&locale=en&layout=compact" alt="kathrynhoule" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kathrynhoule&show_icons=true&locale=en" alt="kathrynhoule" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kathrynhoule&" alt="kathrynhoule" /></p>
