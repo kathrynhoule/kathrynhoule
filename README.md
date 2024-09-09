@@ -1,5 +1,5 @@
 # ✨ About Me
-🔭 I’m currently working on a few small React projects to continue to develop my skills with it
+🔭 I’m currently working on a few small React projects to continue to develop my skills with it<br>
 🎮 In my free time I make video game mods on my personal account<br>
 🌱 As of right now I am learning Python, TypeScript, Java (re-learning), C#, Rust, Ruby, Vuejs, Bootstrap, Redux<br>
 💬 Ask me about React!! I love it 💖
