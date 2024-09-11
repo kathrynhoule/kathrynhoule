@@ -2,9 +2,9 @@
 **`Web Developer/Digital Artist/Professional Communication`**
 
 👋 Hi, I'm Ryn!<br>
-🔭 I’m currently working on a few small React projects to continue to develop my skills with it<br>
+🔭 I’m currently working on a few React projects to continue to develop my skills and build out my portfolio<br>
 🎮 In my free time I make video game mods on my personal account<br>
-🌱 As of right now I am learning Python, TypeScript, Java (re-learning), C#, Rust, Ruby, Vuejs, Bootstrap, Redux<br>
+🌱 As of right now I am learning Python, TypeScript, Vuejs, Bootstrap, and Redux<br>
 💬 Ask me about React!! I love it 💖
 
 ---
