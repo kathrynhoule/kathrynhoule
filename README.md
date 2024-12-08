@@ -4,7 +4,7 @@
 👋 Hi, I'm Ryn!<br>
 🔭 I’m currently working on a few React projects to continue to develop my skills and build out my portfolio<br>
 🎮 In my free time I make video game mods on my personal account, and small video games of my own using Java<br>
-🌱 As of right now I am learning Python, TypeScript, Vuejs, Bootstrap, and Redux<br>
+🌱 As of right now I am learning Python, Vuejs, Bootstrap, and Redux<br>
 💬 Ask me about React!! I love it 💖
 
 ---
