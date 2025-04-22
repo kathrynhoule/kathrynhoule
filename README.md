@@ -3,9 +3,8 @@
 
 👋 Hi, I'm Ryn!<br>
 🔭 Right now I'm working on a few React projects to build out my portfolio<br>
-🎮 In my free time I make video game mods on my personal account, and small video games of my own using Java<br>
+🎮 In my free time I make video game mods on my personal account, and small video games of my own using Python<br>
 💬 Ask me about React!! I love it 💖<br>
-🌱 I'm currently learning Python!
 
 ---
 
