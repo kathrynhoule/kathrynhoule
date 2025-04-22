@@ -43,4 +43,4 @@
 
 ---
 ![kathrynhoule's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynhoule&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynhoule&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynhoule&hide=javascript,css,scss&theme=tokyonight)
