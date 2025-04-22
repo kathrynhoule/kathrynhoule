@@ -9,6 +9,10 @@
 
 ---
 
+![kathrynhoule's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynhoule&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
+
+---
+
 ### 💻 Tech Stack
 **`Favourites`**<br><br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -40,6 +44,3 @@
 ### 🌐 Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
  + Portfolio site coming soon!
-
----
-![kathrynhoule's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynhoule&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
